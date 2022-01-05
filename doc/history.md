@@ -1,3 +1,42 @@
+## 2.104.0
+* pc: fix biomes for 1.18
+
+## 2.103.0
+* pc: biomes for 1.18
+
+## 2.102.0
+* pc: loginPacket for 1.18
+
+## 2.101.0
+* pc: fix states in blocks 1.18
+
+## 2.100.0
+* pc: add more 1.18 data
+* bedrock: update protocol
+* pc: add attribute support
+
+## 2.99.3
+* pc: rename x_sec and z_sec to x and z in chunk block entity
+
+## 2.99.2
+* pc: change nbtData field of chunkBlockEntity to optionalNbt in 1.18
+
+## 2.99.1
+* pc: fix simulation distance packet in 1.18
+
+## 2.99.0
+* pc: fix version path in 1.18 (@u9g)
+* bedrock: update 1.18 data (@extremeheat)
+
+## 2.98.1
+* pc: Properly prefix particle resourceIDs in 1.17+ (@nickelpro)
+
+## 2.98.0
+* pc: Add 1.18 protocol data (@nickelpro)
+
+## 2.97.0
+* bedrock: Add 1.18.0 data (@extremeheat)
+
 ## 2.96.0
 * Add bedrock 1.17.40 protocol data (@extremeheat)
 

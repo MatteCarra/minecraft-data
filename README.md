@@ -9,8 +9,8 @@ Language independent module providing minecraft data for minecraft clients, serv
 
 Supports
 * Minecraft PC version 0.30c (classic), 1.7.10, 1.8.8, 1.9 (15w40b, 1.9, 1.9.1-pre2, 1.9.2, 1.9.4),
- 1.10 (16w20a, 1.10-pre1, 1.10, 1.10.1, 1.10.2), 1.11 (16w35a, 1.11, 1.11.2), 1.12 (17w15a, 17w18b, 1.12-pre4, 1.12, 1.12.1, 1.12.2), 1.13 (17w50a, 1.13, 1.13.1, 1.13.2-pre1, 1.13.2-pre2, 1.13.2), 1.14 (1.14, 1.14.1, 1.14.3, 1.14.4), 1.15 (1.15, 1.15.1, 1.15.2), 1.16 (20w13b, 20w14a, 1.16-rc1, 1.16, 1.16.1, 1.16.2, 1.16.3, 1.16.4, 1.16.5), and 1.17
-* Minecraft bedrock version 0.14, 0.15, 1.0, 1.16.201, 1.16.210, 1.16.220, 1.17.0, 1.17.10, 1.17.30, 1.17.40
+ 1.10 (16w20a, 1.10-pre1, 1.10, 1.10.1, 1.10.2), 1.11 (16w35a, 1.11, 1.11.2), 1.12 (17w15a, 17w18b, 1.12-pre4, 1.12, 1.12.1, 1.12.2), 1.13 (17w50a, 1.13, 1.13.1, 1.13.2-pre1, 1.13.2-pre2, 1.13.2), 1.14 (1.14, 1.14.1, 1.14.3, 1.14.4), 1.15 (1.15, 1.15.1, 1.15.2), 1.16 (20w13b, 20w14a, 1.16-rc1, 1.16, 1.16.1, 1.16.2, 1.16.3, 1.16.4, 1.16.5), 1.17, 1.17.1, 1.18
+* Minecraft bedrock version 0.14, 0.15, 1.0, 1.16.201, 1.16.210, 1.16.220, 1.17.0, 1.17.10, 1.17.30, 1.17.40, 1.18.0
 
 ## Wrappers
 
@@ -43,7 +43,7 @@ Data provided:
 | Map icons | Provides all available map icons as used by (crafted) maps |
 | Materials | to be used with blocks data. Provides tool speed multipliers against material types. |
 | Particles | Id and names of minecraft particles |
-| Protocol | a complete description of the protocol, can be used to automatically implement the protocol |
+| Protocol | a complete description of the protocol, can be used to automatically implement the protocol, see [protodef doc](https://github.com/ProtoDef-io/ProtoDef) |
 | Protocol Versions | the whole list of minecraft protocol versions |
 | Recipes | to be used with blocks and items data |
 | Windows | the different kind of windows and their characteristics |
