@@ -4629,7 +4629,7 @@
         },
         {
           "name": "tick",
-          "type": "varint"
+          "type": "varint64"
         }
       ]
     ],
@@ -5684,7 +5684,7 @@
           "type": "CommandOrigin"
         },
         {
-          "name": "interval",
+          "name": "internal",
           "type": "bool"
         }
       ]

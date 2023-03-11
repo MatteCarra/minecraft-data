@@ -311,7 +311,7 @@
             "array",
             {
               "countType": "li32",
-              "type": "ShortArray"
+              "type": "ShortString"
             }
           ]
         },
@@ -321,7 +321,7 @@
             "array",
             {
               "countType": "li32",
-              "type": "ShortArray"
+              "type": "ShortString"
             }
           ]
         },
@@ -378,7 +378,7 @@
             "array",
             {
               "countType": "li32",
-              "type": "ShortArray"
+              "type": "ShortString"
             }
           ]
         },
@@ -388,7 +388,7 @@
             "array",
             {
               "countType": "li32",
-              "type": "ShortArray"
+              "type": "ShortString"
             }
           ]
         }
@@ -5563,7 +5563,7 @@
         },
         {
           "name": "tick",
-          "type": "varint"
+          "type": "varint64"
         }
       ]
     ],
@@ -6640,14 +6640,19 @@
                                         "4": "value",
                                         "5": "wildcard_int",
                                         "6": "operator",
+                                        "7": "command_operator",
                                         "8": "target",
+                                        "10": "wildcard_target",
                                         "17": "file_path",
+                                        "23": "integer_range",
+                                        "38": "equipment_slots",
                                         "39": "string",
                                         "47": "block_position",
                                         "48": "position",
                                         "51": "message",
                                         "53": "raw_text",
                                         "57": "json",
+                                        "67": "block_states",
                                         "70": "command"
                                       }
                                     }
@@ -6780,7 +6785,7 @@
           "type": "CommandOrigin"
         },
         {
-          "name": "interval",
+          "name": "internal",
           "type": "bool"
         }
       ]
@@ -9967,6 +9972,12 @@
     ],
     "ShortArray": [
       "buffer",
+      {
+        "countType": "li16"
+      }
+    ],
+    "ShortString": [
+      "pstring",
       {
         "countType": "li16"
       }

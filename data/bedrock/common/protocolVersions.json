@@ -1,5 +1,59 @@
 [
   {
+    "version": 568,
+    "minecraftVersion": "1.19.63",
+    "majorVersion": "1.19",
+    "releaseType": "release"
+  },
+  {
+    "version": 567,
+    "minecraftVersion": "1.19.62",
+    "majorVersion": "1.19",
+    "releaseType": "release"
+  },
+  {
+    "version": 567,
+    "minecraftVersion": "1.19.60",
+    "majorVersion": "1.19",
+    "releaseType": "release"
+  },
+  {
+    "version": 560,
+    "minecraftVersion": "1.19.50",
+    "majorVersion": "1.19",
+    "releaseType": "release"
+  },
+  {
+    "version": 557,
+    "minecraftVersion": "1.19.40",
+    "majorVersion": "1.19",
+    "releaseType": "release"
+  },
+  {
+    "version": 554,
+    "minecraftVersion": "1.19.30",
+    "majorVersion": "1.19",
+    "releaseType": "release"
+  },
+  {
+    "version": 545,
+    "minecraftVersion": "1.19.21",
+    "majorVersion": "1.19",
+    "releaseType": "release"
+  },
+  {
+    "version": 544,
+    "minecraftVersion": "1.19.20",
+    "majorVersion": "1.19",
+    "releaseType": "release"
+  },
+  {
+    "version": 534,
+    "minecraftVersion": "1.19.10",
+    "majorVersion": "1.19",
+    "releaseType": "release"
+  },
+  {
     "version": 527,
     "minecraftVersion": "1.19.1",
     "majorVersion": "1.19",
