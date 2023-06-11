@@ -6275,7 +6275,11 @@
                 "22": "honey_harvested",
                 "23": "target_block_hit",
                 "24": "piglin_barter",
-                "25": "waxed_or_unwaxed_copper"
+                "25": "waxed_or_unwaxed_copper",
+                "26": "code_builder_runtime_action",
+                "27": "code_builder_scoreboard",
+                "28": "strider_ridden_in_lava_in_overworld",
+                "29": "sneak_close_to_sculk_sensor"
               }
             }
           ]
@@ -6324,7 +6328,7 @@
         },
         {
           "name": "origin",
-          "type": "BlockCoordinates"
+          "type": "vec3i"
         },
         {
           "name": "included_in",
@@ -7953,7 +7957,7 @@
         },
         {
           "name": "position",
-          "type": "vec3u"
+          "type": "vec3i"
         },
         {
           "name": "reaction_type",
