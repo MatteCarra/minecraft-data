@@ -1,3 +1,109 @@
+## 3.83.1
+* [Update pc1.21.4 entity metadata (#969)](https://github.com/PrismarineJS/minecraft-data/commit/0f8ead7370ea6fb11552c29dbb9d86fd4da8e4f2) (thanks @extremeheat)
+
+## 3.83.0
+* [Add pc1.21.4 data (#967)](https://github.com/PrismarineJS/minecraft-data/commit/d7c753a903c5cfee967db04b7f4b146ba8f8d375) (thanks @extremeheat)
+* [Add 25w02a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/5f8a3f5df832c117c00447f8cec66d10795771c3) (thanks @github-actions[bot])
+
+## 3.82.0
+* [Add pc1.21.3 features (#965)](https://github.com/PrismarineJS/minecraft-data/commit/2ce91b425f91a6bac16d679bf7912974f768ca16) (thanks @extremeheat)
+* [bedrock: fix protocol ItemStackRequest optional type, add 1.21.50 updated skin (#962)](https://github.com/PrismarineJS/minecraft-data/commit/6e12664f6bd49b62546b77e667c91b3ceeae6035) (thanks @yowzaoppo)
+
+## 3.81.2
+* [pc1.21.3 protocol: fix slot itemId name and player_info bitfield (#963)](https://github.com/PrismarineJS/minecraft-data/commit/9de94fd41d2577d592eafb391a2bcfefd761b6fa) (thanks @extremeheat)
+
+## 3.81.1
+* [Add pc 1.21.1 and 1.21.3 loginPackets (#960)](https://github.com/PrismarineJS/minecraft-data/commit/ae2828606ba66d77365fc8ccba3f1e4b56aa3be2) (thanks @extremeheat)
+
+## 3.81.0
+* [fixed incorrect 1.20.5 and 1.21.1 data (#943)](https://github.com/PrismarineJS/minecraft-data/commit/a72613c08b1a34d331cf7a62da758deb878a22cc) (thanks @Madlykeanu)
+* [Update bedrock-ci.yml to install libssl v1.1](https://github.com/PrismarineJS/minecraft-data/commit/42da8a3217eeb1b34a7a54111337bebdf13abc5f) (thanks @extremeheat)
+
+## 3.80.1
+* [pc: Add 1.19.4 loginPacket and `removedNamedSoundEffectPacket` 1.19.3+ feature (#956)](https://github.com/PrismarineJS/minecraft-data/commit/4aae3c344149e844664fa0a0a8ba4fb3f3a94f52) (thanks @extremeheat)
+* [Fix bedrock 1.21.50 protocol input flags (#952)](https://github.com/PrismarineJS/minecraft-data/commit/ea066f38c91be23f28a3cbc9fa0c6407c09b21b6) (thanks @extremeheat)
+
+## 3.80.0
+* [Add bedrock 1.21.50 protocol data (#945)](https://github.com/PrismarineJS/minecraft-data/commit/b0c5492bc709673ba684e2fc0fe034ff069f9c50) (thanks @CreeperG16)
+* [bedrock: fix serverbound_loading_screen malformed packet (#944)](https://github.com/PrismarineJS/minecraft-data/commit/9753666c64c00d1307e8ad93a3f1e1d74f3c7586) (thanks @JSbETms)
+* [Add 1.21.3 to readme](https://github.com/PrismarineJS/minecraft-data/commit/6dc131a5b286da399ad0201ba977e7766cd3a5f6) (thanks @rom1504)
+
+## 3.79.0
+* [Java 1.21.3 Support (#936)](https://github.com/PrismarineJS/minecraft-data/commit/2442f47dc991c587c8090a9469170dd86cfa0ee4) (thanks @GroobleDierne)
+* [Add 1.21.4 to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/f88f2699c43dc48a12a2bdf5fd0109dc0ebc94b7) (thanks @github-actions[bot])
+* [Add 1.21.4-rc3 to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/e0e23d27777f5e9d64d9797fd5dd69616875cf63) (thanks @github-actions[bot])
+* [Add 1.21.4-rc2 to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/564c0a6c1765d1462a33b2f65f74c77bff50144c) (thanks @github-actions[bot])
+* [Add 1.21.4-rc1 to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/ccbaf7685dc1239ffbd2129a66ae76ea276d8bb4) (thanks @github-actions[bot])
+* [Add 1.21.4-pre3 to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/bb89a33f423dab1bf6f64a59aad12c547c369a99) (thanks @github-actions[bot])
+* [Add 1.21.4-pre2 to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/42a2f3806fd6a22f8ed79f98fb0757f906cf0266) (thanks @github-actions[bot])
+* [Add 1.21.4-pre1 to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/9cfa6ea955af24d6f481484ebe5d8221a2265421) (thanks @github-actions[bot])
+* [Add 24w46a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/dd1c067ce05464831dd2855a06cf0ed74bc48cd0) (thanks @github-actions[bot])
+* [Add 24w45a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/27e699e134a5dcc39c3a94ae7735d27f8ea3040f) (thanks @github-actions[bot])
+* [Add 24w44a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/fc60c49b07c937cb31d617b7ec7e6abcf78a8ce8) (thanks @github-actions[bot])
+* [Add 1.21 data (protocol compliant w/ 1.21.1) (#935)](https://github.com/PrismarineJS/minecraft-data/commit/f1130aea931b948d2ecaecf34ecfe0116bfd4172) (thanks @GroobleDierne)
+
+## 3.78.0
+* [Add pc 1.21.1 data (#925)](https://github.com/PrismarineJS/minecraft-data/commit/d56346a4e32defcd28d9ba6750957c12001e78d6) (thanks @extremeheat)
+* [Add incrementedChatType feature (#932)](https://github.com/PrismarineJS/minecraft-data/commit/8ef58b15fec74c6a276d0c83cfc741d6fb4e072a) (thanks @SuperGamerTron)
+
+## 3.77.0
+* [Add bedrock 1.21.42 protocol data (#930)](https://github.com/PrismarineJS/minecraft-data/commit/dee9f10b667a31d7bef66e7c5b6c9bdc9d6a7232) (thanks @CreeperG16)
+
+## 3.76.0
+* [add has execute command feature](https://github.com/PrismarineJS/minecraft-data/commit/20f34ae536e30370ecdb6fde6412ddba4d67d9a0) (thanks @rom1504)
+
+## 3.75.0
+* [use login data of 1.20.5 in 1.20.6](https://github.com/PrismarineJS/minecraft-data/commit/b5d1b0bfa18d3c9f41d289c285d2b54827f22004) (thanks @rom1504)
+
+## 3.74.0
+* [update recipes for 1.20.6](https://github.com/PrismarineJS/minecraft-data/commit/636d3a7e027e75ab1deeb4cd214b73306a836473) (thanks @rom1504)
+
+## 3.73.0
+* [add missing 1.20.6 in versions.json](https://github.com/PrismarineJS/minecraft-data/commit/214ae40d2d2c383cf5ef5050529be1693961930b) (thanks @rom1504)
+
+## 3.72.0
+* [Add 1.20.6 support assuming no change from 1.20.5.](https://github.com/PrismarineJS/minecraft-data/commit/9e9e84df7890b1a59f2f074fb1b0c0eb0885ca74) (thanks @rom1504)
+
+## 3.71.0
+* [Fix protocol.json array count after protodef yaml fix.](https://github.com/PrismarineJS/minecraft-data/commit/7bae37d8bb4a367a38395b30393c9df62e839984) (thanks @rom1504)
+* [Add 1.20.5 in version list in readme](https://github.com/PrismarineJS/minecraft-data/commit/7f34231c97b2af16478abb2b66d9ecbc8e053d63) (thanks @rom1504)
+
+## 3.70.0
+* [Pc1.20.5 protocol (#898)](https://github.com/PrismarineJS/minecraft-data/commit/a240b84d2690f1c05d2a64a8bf1b152b3682ded5) (thanks @extremeheat)
+* [Add 1.21.2-pre3 to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/34bba2ce95af635a5d5e79359009fa779c135d42) (thanks @github-actions[bot])
+* [Add 1.21.2-pre2 to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/14bde312bffedda58b6cd59a868be9039bd7143e) (thanks @github-actions[bot])
+* [Add 1.21.2-pre1 to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/61c6b9ac56dd00f2881b1960455c8208df2169db) (thanks @github-actions[bot])
+* [Add 24w40a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/c356b8cf02c71f9583ef0173e9281d83238d62bb) (thanks @github-actions[bot])
+* [Add 24w39a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/9c8c31f2cee73500130e14e398a4b6ac6d5f22b8) (thanks @github-actions[bot])
+
+## 3.69.0
+* [1.21.30 support (#911)](https://github.com/PrismarineJS/minecraft-data/commit/b8282714565b2405ac946d72840239f88f9edb28) (thanks @pokecosimo)
+* [[bedrock] Add missing 1.21.20 packets (#908)](https://github.com/PrismarineJS/minecraft-data/commit/aa82dcc0cd5afe0a8feebf8ac626c0836b98b929) (thanks @MrDiamond64)
+
+## 3.68.1
+* [Fix dataPaths.json for bedrock 1.21.2](https://github.com/PrismarineJS/minecraft-data/commit/d196f9208db6844e584d17f00d80379ab81eada0) (thanks @extremeheat)
+
+## 3.68.0
+* [Add bedrock 1.21.20 protocol data (#902)](https://github.com/PrismarineJS/minecraft-data/commit/854446ec2b05cab0d252469e4d94c43492019f3e) (thanks @extremeheat)
+* [Implement protodef-yaml for mcpc (#886)](https://github.com/PrismarineJS/minecraft-data/commit/a748994fe231c356ffece37c533bcda5816b3d7a) (thanks @extremeheat)
+
+## 3.67.0
+* [Add bedrock 1.21.2 protocol data (#895)](https://github.com/PrismarineJS/minecraft-data/commit/35a8033e1ad4daba7e0d1c9a3112ab0b882251d6) (thanks @CreeperG16)
+* [Correction to bedrock ItemStackRequests packet auto craft (#894)](https://github.com/PrismarineJS/minecraft-data/commit/ddd0700d1fe0c654a9f889b7263eeeaba48b0511) (thanks @extremeheat)
+* [Bedrock 1.21.0 blocks data (#892)](https://github.com/PrismarineJS/minecraft-data/commit/d84b2283dc64fb246d6239e4b9fa8487c6f420eb) (thanks @bedrock-bot)
+* [Add some 1.20.5 data (#879)](https://github.com/PrismarineJS/minecraft-data/commit/4ca8db1dd3d45302de3c33d01cfcc75464afdba1) (thanks @qwqtoday)
+
+## 3.66.0
+* [Add Bedrock 1.21.0 protocol data (#882)](https://github.com/PrismarineJS/minecraft-data/commit/67a392d204775473ce28b37db0bcfa01218624bb) (thanks @CreeperG16)
+* [Add pc 1.18+ Book editing feature (#876)](https://github.com/PrismarineJS/minecraft-data/commit/af0ce69e3c212c1bd06e544b94049ae8bf11f321) (thanks @unlimitedcoder2) 
+* [Update steve skin for bedrock (#880)](https://github.com/PrismarineJS/minecraft-data/commit/141dc91ad21b0713bd5ca56b7f79aa4874a3c128) (thanks @yowzaoppo)
+
+## 3.65.0
+* [Add bedrock 1.20.80 protocol data (#873)](https://github.com/PrismarineJS/minecraft-data/commit/7c216d876417eb3fe27c317700b38f0e638ee47a) (thanks @extremeheat)
+* Update pc protocolVersions.json with 1.20.5 and new snapshots
+* [Add bedrock 1.19.80-1.20.71 blocks data (#864)](https://github.com/PrismarineJS/minecraft-data/commit/e34bced290112d8fe7c3935369eec969b8453a71) (thanks @FreezeEngine)
+* [Update bedrock protocol to fix `command_executed` and `player_movement_corrected` typos (#871)](https://github.com/PrismarineJS/minecraft-data/commit/0f86acc3b91279743fcc991ad2c9c313b8ebda57) (thanks @kotinash)
+
 ## 3.64.1
 * [Update bedrock features.json to add `blockHashes`](https://github.com/PrismarineJS/minecraft-data/commit/bf994a81894ab47cf031ecdc9dff7165ac89e56e) (thanks @extremeheat)
 * [Add 24w12a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/8a914067da3998bc8b84f41c33e3cf5fb8980599) (thanks @github-actions[bot])
